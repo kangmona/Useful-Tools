@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
-# 验证微信好友是否删掉了你
+# 此脚本用于验证微信好友是否删掉了你
 # python运行本脚本--> 扫描二维码 --> 等待……心里不适或喜出望外o(∩_∩)o 
 from __future__ import print_function
 
